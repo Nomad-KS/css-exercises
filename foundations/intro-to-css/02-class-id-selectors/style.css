@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.odd-num {
+    background-color: #ffb6c1;
+    font-family: verdana,;
+}*
+
+#evennum-1 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.oddnum-2 {
+    font-size: 24px;
+}
+
+#evennum-2 {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
